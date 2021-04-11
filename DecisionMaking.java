@@ -17,7 +17,7 @@ public class DecisionMaking {
 		else
 			System.out.println("Your tax value is 10%");
 		
-		default :System.out.println("invalid input");
+		
 		}
 	}
 
